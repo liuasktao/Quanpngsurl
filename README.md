@@ -1,4 +1,4 @@
-###  **Quanpngsurl**
+**Quanpngsurl**
  
 自用Quantumultx图标及规则，随缘更新。
 
