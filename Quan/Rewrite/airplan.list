@@ -1,0 +1,6 @@
+hostname = hitun.io, v4.re0x.org, maying.co, vfu.nmao.ml
+
+https:\/\/hitun\.io url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+https:\/\/v4\.re0x\.org url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+https:\/\/maying\.co url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
+https:\/\/vfu\.nmao\.ml url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
