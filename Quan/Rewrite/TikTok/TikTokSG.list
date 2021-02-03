@@ -1,14 +1,15 @@
 # TikTok解锁新加坡区
-# hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
-hostname = *.tiktokv.com,*.byteoversea.com,*.musical.ly,*.snssdk.com,*.googlevideo.com
+hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
+# hostname = *.tiktokv.com,*.byteoversea.com,*.musical.ly,*.snssdk.com,*.googlevideo.com
 
-# (?<=_region=)CN(?=&) url 307 SG
-# (?<=&mcc_mnc=)4 url 307 2
-# ^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+) url 302 $1$3
-# (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) url 302 $118.0$3
-(?<=_region=)CN(?=&) url 302 SG
-(?<=\d\/\?version_code=)1[6-9]..(?=.?.?&) url 302 17
-(?<=\?version_code=)1[8-9]..(?=.?.?&) url 302 17
-(?<=&mcc_mnc=)4 url 302 2
-ctier=[A-Z] url 302 ctier=A
-^https:\/\/[\s\S]*\.googlevideo\.com/.*&(oad|ctier) url REJECT
+(?<=_region=)CN(?=&) url 307 SG
+(?<=&mcc_mnc=)4 url 307 2
+^(https?:\/\/dm[\w-]+\.\w+\.com\/.+)(\?)(.+) url 302 $1$3
+(^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) url 302 $118.0$3
+
+# (?<=_region=)CN(?=&) url 302 SG
+# (?<=\d\/\?version_code=)1[6-9]..(?=.?.?&) url 302 17
+# (?<=\?version_code=)1[8-9]..(?=.?.?&) url 302 17
+# (?<=&mcc_mnc=)4 url 302 2
+# ctier=[A-Z] url 302 ctier=A
+# ^https:\/\/[\s\S]*\.googlevideo\.com/.*&(oad|ctier) url REJECT
