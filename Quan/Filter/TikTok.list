@@ -11,3 +11,5 @@ host-suffix,tiktokv.com,t
 host-keyword,-tiktokcdn-com,t
 user-agent,tiktok*,t
 host, graph.facebook.com,t
+host, app-measurement.com, t
+host, api.snapkit.com, t
