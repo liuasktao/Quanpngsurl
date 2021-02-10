@@ -1,4 +1,4 @@
-# Other sites
+# Other proxy sites
 host-suffix, duyaoss.com, Other
 host-suffix, free-ss.site, Other
 host-keyword, medium, Other
@@ -55,3 +55,6 @@ host-suffix, inpagepush.com, Other
 host-suffix, njhzmxx.com, Other
 host-suffix, potplayer.org, Other
 host-suffix, clash.dev, Other
+host-suffix, xnxx.com, Other
+host-keyword, xnxx-cdn, Other
+host-keyword, xvideos-cdn, Other
