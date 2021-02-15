@@ -3,5 +3,5 @@ host-suffix, iqiyi.com, iQIYI
 host-suffix, qy.net, iQIYI
 user-agent, qyplayer*, iQIYI
 host-suffix, iqiyipic.com, iQIYI
-user-agent, qiyi*, iQIYI
-host-keyword, qiyi, iQIYI
+user-agent, QIYI*, iQIYI
+host-agent, iQIYI*, iQIYI
