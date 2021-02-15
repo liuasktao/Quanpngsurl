@@ -2,5 +2,5 @@
 host-suffix, iqiyi.com, iQIYI
 host-suffix, qy.net, iQIYI
 user-agent, qyplayer*, iQIYI
-ip-cidr, 223.119.62.231/32, iQIYI
-ip-cidr, 118.26.120.42/32, iQIYI
+host-suffix, iqiyipic.com, iQIYI
+user-agent, iqiyi*, iQIYI
