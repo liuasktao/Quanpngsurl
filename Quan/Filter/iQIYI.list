@@ -5,3 +5,4 @@ user-agent, qyplayer*, iQIYI
 host-suffix, iqiyipic.com, iQIYI
 user-agent, QIYI*, iQIYI
 user-agent, iQIYI*, iQIYI
+host-suffix, iq.com, iQIYI
