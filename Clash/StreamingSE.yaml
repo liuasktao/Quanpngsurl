@@ -13,10 +13,10 @@ payload:
   - DOMAIN-SUFFIX,qiyi.com
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,qy.net
-  - USER-AGENT,qyplayer*
+  # - USER-AGENT,qyplayer*
   - DOMAIN-SUFFIX,iqiyipic.com
-  - USER-AGENT,iQIYI*
-  - USER-AGENT,QIYI*
+  # - USER-AGENT,iQIYI*
+  # - USER-AGENT,QIYI*
   # (流媒体内容，非必须，省流量可注释)
   - DOMAIN-KEYWORD,oversea-tw.inter.iqiyi.com
   - DOMAIN-KEYWORD,oversea-tw.inter.ptqy.gitv.tv
