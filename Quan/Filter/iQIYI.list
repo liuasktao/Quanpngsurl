@@ -3,6 +3,19 @@ host-suffix, iqiyi.com, iQIYI
 host-suffix, qy.net, iQIYI
 user-agent, qyplayer*, iQIYI
 host-suffix, iqiyipic.com, iQIYI
-user-agent, QIYI*, iQIYI
 user-agent, iQIYI*, iQIYI
+user-agent, QIYI*, iQIYI
 host-suffix, iq.com, iQIYI
+host, cache.video.iqiyi.com, iQIYI
+host, cache-video.iq.com, iQIYI
+host, intl.iqiyi.com, iQIYI
+host, intl-rcd.iqiyi.com, iQIYI
+host, intl-subscription.iqiyi.com, iQIYI
+host-keyword, oversea-tw.inter.iqiyi.com, iQIYI
+host-keyword, oversea-tw.inter.ptqy.gitv.tv, iQIYI
+ip-cidr, 103.44.56.0/22, iQIYI, no-resolve
+ip-cidr, 118.26.32.0/23, iQIYI, no-resolve
+ip-cidr, 118.26.120.0/24, iQIYI, no-resolve
+ip-cidr, 223.119.62.225/28, iQIYI, no-resolve
+ip-cidr, 23.40.242.10/32, iQIYI, no-resolve
+ip-cidr, 23.40.241.251/32, iQIYI, no-resolve
